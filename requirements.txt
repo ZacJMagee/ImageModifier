@@ -1,0 +1,6 @@
+
+pillow
+keras
+tensorflow
+numpy
+opencv-contrib-python
