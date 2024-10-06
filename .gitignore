@@ -1,0 +1,82 @@
+
+# Exclude the ModelContent directory
+ModelContent/
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Logs
+logs/
+*.log
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Runtime data
+*.csv
+*.dat
+*.out
+*.dmp
+
+# Compiled source
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Python
+*.py[cod]
+*.pyo
+__pycache__/
+*.so
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# C++
+*.obj
+*.elf
+
+# Go
+*.exe
+*.test
+*.out
+
+# Ruby
+*.gem
+*.rbc
+
+# PHP
+*.cache
+
+# Rust
+*.rs.bk
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Archives
+*.zip
+*.tar.gz
+*.rar
+
+# Other common directories
+dist/
+build/
+coverage/
+tmp/
